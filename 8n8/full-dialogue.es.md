@@ -1,4 +1,10 @@
-## Full dialogue (Spanish)
+## Full dialogue (English)
+
+**Context:** Real interaction illustrating a factual hallucination involving a fabricated cultural entity.  
+**Date:** December 29, 2025  
+**Language:** English (translated from Spanish – Spain)
+
+The dialogue below reproduces the original exchange in which the model generated a detailed description of a non-existe
 
 **Alejandro Remeseiro — 29 December 2025, 23:20**
 
