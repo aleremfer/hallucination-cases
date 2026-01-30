@@ -127,7 +127,7 @@ Such failures are difficult to detect automatically and pose risks in cultural, 
 
 This case study is based on a real interaction and may be reused for educational and research purposes.
 
-**Creative Commons Zero v1.0 Universal (CC0 1.0)**
+**Creative Commons Attribution 4.0 International**
 
 ---
 
