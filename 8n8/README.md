@@ -5,11 +5,12 @@
 
 ## Case type
 
-- Factual hallucination  
-- Fabricated cultural entity  
-- Unwarranted domain assumption  
-- Narrative overgeneration  
-- User-alignment bias  
+- Primary failure mode: Hard factual hallucination (fabricated entity)
+- Fabricated cultural entity
+- Unwarranted domain assumption
+- Narrative overgeneration
+- User-alignment bias
+
 
 ---
 
