@@ -19,3 +19,8 @@ Each case describes situations where non-existent entities, events, or facts are
 
 The goal is to provide concrete, well-documented examples for qualitative evaluation, linguistic QA analysis, and model auditing.
 
+---
+
+If you are using this repository for prompt evaluation, LLM comparison, or QA work,
+notes or observations are welcome via issues.
+
