@@ -83,7 +83,15 @@ The model did not fabricate sources or assert false facts. Instead, it:
 - re-anchored the phrase to high-frequency, canonical sources,
 - treated a modern lyric as a timeless proverb.
 
-This constitutes an **epistemic misframing** rather than a factual error.
+This constitutes an **epistemic misframing** rather than a factual error.  
+The error lies in *how meaning is framed*, not in *what facts are stated*.
+
+---
+
+## Failure Mode
+
+Interpretive hallucination caused by loss of cultural anchoring in short poetic inputs,
+leading to premature canonical re-framing instead of contextual clarification.
 
 ---
 
@@ -106,6 +114,7 @@ A more robust response would have included epistemic caution, such as:
 
 - asking whether the sentence was a lyric or quotation,
 - acknowledging possible contemporary or artistic origins,
+- explicitly signaling uncertainty instead of committing to a canonical interpretation,
 - avoiding stylistic refinement before contextual verification.
 
 ---
@@ -129,3 +138,7 @@ situated ones.
 Humanizing machine language does not mean making systems sound human. It means
 enabling them to recognize when meaning depends on context, origin, and the
 paths through which understanding is reached.
+
+For a broader conceptual framework around this type of behavior, see
+[*Humanizing Machine Language*](https://open.substack.com/pub/alejandroremeseiro/p/humanizing-machine-language).
+
