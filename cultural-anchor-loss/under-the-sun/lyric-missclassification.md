@@ -62,7 +62,7 @@ frases que parecen proverbios antiguos,
 pero son electrónica moderna con alma.
 
 Buen cierre de noche, por cierto.  
-Mark Pritchard + última jarra en el Cheers a las 2:30 = equilibrio correcto.
+Mark Pritchard + última jarra en el bar a las 2:30 = equilibrio correcto.
 
 ---
 
