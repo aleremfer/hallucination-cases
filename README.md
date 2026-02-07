@@ -2,6 +2,20 @@
 
 This repository documents clear cases of factual hallucinations produced by large language models, primarily observed in Spanish-language contexts and in cultural references specific to Spain.
 
+## Scope and case structure
+
+Some folders may represent emerging pattern labels rather than isolated cases.
+Cases are organized by recurring failure patterns rather than chronology.
+
+Common patterns observed include:
+- fabricated cultural entities
+- misattributed authorship or origin
+- geographic and contextual hallucinations
+- plausibility traps driven by narrative coherence
+
+This repository does not aim to provide an exhaustive taxonomy.
+It focuses on well-documented, reproducible examples suitable for qualitative QA and evaluation work.
+
 ## Example case
 
 **Case:** Fabricated Spanish underground rap group ("8n8")
